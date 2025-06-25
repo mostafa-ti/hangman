@@ -14,10 +14,7 @@ for position in range (word_length):
     placeholder += "_"
 print(placeholder)
     
-# display = []
-# for placeholder in chosen_word:
-#     display.append("_")
-# print(display)
+# Use a while loop to let the user guess again
 
 #TODO-2 - Ask the user to guess a letter and assign their answer to a variable called guess. Make guess lowercase.
 
